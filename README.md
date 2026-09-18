@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
@@ -29,3 +30,7 @@ View your app in AI Studio: https://ai.studio/apps/46f0e2e6-af17-4662-9b6c-1a2e6
    Sign out and request a new link. Only users with this role can manage products or orders.
 6. Run the app:
    `npm run dev`
+=======
+# La Bodeguita
+Proyecto de comida rapida
+>>>>>>> dbfc7a0bbe44935a767763398bb0b02147709c40
