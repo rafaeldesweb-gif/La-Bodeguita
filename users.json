@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ed710533-6c10-4f39-a747-22dbe5d98db6",
+    "aud": "authenticated",
+    "role": "authenticated",
+    "email": "cliente_test_1787791710629@labodeguita.com",
+    "email_confirmed_at": "2026-08-27T00:48:33.672038Z",
+    "phone": "",
+    "confirmed_at": "2026-08-27T00:48:33.672038Z",
+    "app_metadata": {
+      "provider": "email",
+      "providers": [
+        "email"
+      ]
+    },
+    "user_metadata": {
+      "email_verified": true,
+      "full_name": "Carlos Cliente Prueba",
+      "phone": "+34 600 000 000",
+      "role": "customer"
+    },
+    "identities": null,
+    "created_at": "2026-08-27T00:48:33.663016Z",
+    "updated_at": "2026-08-27T00:48:33.672813Z",
+    "is_anonymous": false
+  },
+  {
+    "id": "b3595ca3-89c6-4420-840f-77964eba487c",
+    "aud": "authenticated",
+    "role": "authenticated",
+    "email": "cliente_test_1787790671460@labodeguita.com",
+    "email_confirmed_at": "2026-08-27T00:31:14.823919Z",
+    "phone": "",
+    "confirmed_at": "2026-08-27T00:31:14.823919Z",
+    "app_metadata": {
+      "provider": "email",
+      "providers": [
+        "email"
+      ]
+    },
+    "user_metadata": {
+      "email_verified": true,
+      "full_name": "Carlos Cliente Prueba",
+      "phone": "+34 600 000 000",
+      "role": "customer"
+    },
+    "identities": null,
+    "created_at": "2026-08-27T00:31:14.787905Z",
+    "updated_at": "2026-08-27T00:31:14.82511Z",
+    "is_anonymous": false
+  },
+  {
+    "id": "5017a568-c940-42c7-aa54-090042205106",
+    "aud": "authenticated",
+    "role": "authenticated",
+    "email": "rafael_o_maitin@yahoo.es",
+    "email_confirmed_at": "2026-08-26T22:59:10.451037Z",
+    "phone": "",
+    "confirmation_sent_at": "2026-08-26T22:44:09.874709Z",
+    "confirmed_at": "2026-08-26T22:59:10.451037Z",
+    "last_sign_in_at": "2026-08-27T00:47:03.030106Z",
+    "app_metadata": {
+      "provider": "email",
+      "providers": [
+        "email"
+      ]
+    },
+    "user_metadata": {
+      "email": "rafael_o_maitin@yahoo.es",
+      "email_verified": true,
+      "full_name": "junior",
+      "phone": "3333333",
+      "phone_verified": false,
+      "sub": "5017a568-c940-42c7-aa54-090042205106"
+    },
+    "identities": null,
+    "created_at": "2026-08-26T22:44:09.860125Z",
+    "updated_at": "2026-08-27T00:47:03.042357Z",
+    "is_anonymous": false
+  },
+  {
+    "id": "a8ed4830-731d-4287-89af-2eac1d2481f7",
+    "aud": "authenticated",
+    "role": "authenticated",
+    "email": "rafaeldesweb@gmail.com",
+    "email_confirmed_at": "2026-08-26T21:33:02.661341Z",
+    "phone": "",
+    "confirmation_sent_at": "2026-08-26T21:32:43.764857Z",
+    "confirmed_at": "2026-08-26T21:33:02.661341Z",
+    "last_sign_in_at": "2026-08-27T00:39:26.835726Z",
+    "app_metadata": {
+      "provider": "email",
+      "providers": [
+        "email"
+      ]
+    },
+    "user_metadata": {
+      "email": "rafaeldesweb@gmail.com",
+      "email_verified": true,
+      "full_name": "rafael",
+      "phone": "13131313",
+      "phone_verified": false,
+      "sub": "a8ed4830-731d-4287-89af-2eac1d2481f7"
+    },
+    "identities": null,
+    "created_at": "2026-08-26T21:32:43.713266Z",
+    "updated_at": "2026-08-27T00:39:26.873471Z",
+    "is_anonymous": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a8ed4830-731d-4287-89af-2eac1d2481f7",
+    "full_name": "rafael",
+    "role": "customer",
+    "created_at": "2026-08-26T21:32:43.711466+00:00",
+    "updated_at": "2026-08-26T21:32:43.711466+00:00",
+    "phone": "13131313",
+    "correo": null,
+    "contraseña": null
+  },
+  {
+    "id": "b3595ca3-89c6-4420-840f-77964eba487c",
+    "full_name": "Carlos Cliente Prueba",
+    "role": "customer",
+    "created_at": "2026-08-27T00:31:14.785634+00:00",
+    "updated_at": "2026-08-27T00:31:14.785634+00:00",
+    "phone": "+34 600 000 000",
+    "correo": null,
+    "contraseña": null
+  },
+  {
+    "id": "ed710533-6c10-4f39-a747-22dbe5d98db6",
+    "full_name": "Carlos Cliente Prueba",
+    "role": "customer",
+    "created_at": "2026-08-27T00:48:33.661849+00:00",
+    "updated_at": "2026-08-27T00:48:33.661849+00:00",
+    "phone": "+34 600 000 000",
+    "correo": null,
+    "contraseña": null
+  },
+  {
+    "id": "5017a568-c940-42c7-aa54-090042205106",
+    "full_name": "junior",
+    "role": "admin",
+    "created_at": "2026-08-26T22:44:09.85919+00:00",
+    "updated_at": "2026-08-27T00:48:58.100915+00:00",
+    "phone": "3333333",
+    "correo": null,
+    "contraseña": null
+  }
+]

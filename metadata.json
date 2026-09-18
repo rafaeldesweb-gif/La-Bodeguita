@@ -1,0 +1,6 @@
+{
+  "name": "La Bodeguita - Urban Gastronomy",
+  "description": "Restaurante gourmet urbano con menú interactivo, personalización de hamburguesas, carrito, seguimiento de pedidos, panel de cocina BodeAdmin y asistente de IA BodeBot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
